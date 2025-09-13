@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "exhxx-tg",
+  "repo": "container-offzf5s",
+  "name": "exhxx-tg",
+  "email": "mrg8614@gmail.com",
+}
